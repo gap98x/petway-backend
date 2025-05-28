@@ -54,3 +54,9 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Firebase admin SDK
+petway-b0d4c-firebase-adminsdk-fbsvc-67f0075fc0.json
+
+# Html files
+*.html
